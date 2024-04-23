@@ -1183,4 +1183,5 @@ name = "zspider"
 version = "0.1.0"
 dependencies = [
  "reqwest",
+ "tokio",
 ]
